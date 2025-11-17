@@ -16,3 +16,6 @@ Requirements
     -oandapyV20, pandas, pandas_ta
   
     -OANDA API key + account ID
+
+
+MAKE SHURE TO INSTALL THE NECESSERY LIBRARYS
